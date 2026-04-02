@@ -17,7 +17,7 @@ const Navbar = () => {
           
                     <span className='text-green-700'>   &lt;</span> 
 
-           Pass
+           Pass.
           <span className='text-green-500'>OP/&gt;</span> 
           </div>
        
